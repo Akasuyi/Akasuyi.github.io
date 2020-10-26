@@ -43,7 +43,7 @@ weight = 1
 identifier = "archives"
 name = "Archives"
 title = "Archives"
-url = "/content/posts/"
+url = "/posts/"
 weight = 2
 
 [[menu.main]]
@@ -63,7 +63,7 @@ weight = 4
 [[menu.main]]
 identifier = "about"
 name = "About"
-title = "About"
+title = "Contact me"
 url = "/about/"
 weight = 5
 
@@ -94,7 +94,7 @@ widgets = [ "board", "category", "tag", "recent_posts" ]
   enabled = true
   avatar = "avatar.png"
   author = "Yuting Xie"
-  author_title = "a student"
+  author_title = "A student"
   author_description = "A senior student interested in nature language processing"
   location = "Fujian, China"
   follow = "https://github.com/Akasuyi"
@@ -109,7 +109,7 @@ widgets = [ "board", "category", "tag", "recent_posts" ]
   [params.site]
   title = "Hugo"
   favicon = "favicon.ico"
-  board = "<p>hope you enjoy it~</p>"
+  board = "<p>Hope you enjoy it!</p>"
 
     [params.site.logo]
     enabled = true
@@ -128,7 +128,7 @@ widgets = [ "board", "category", "tag", "recent_posts" ]
     [params.comment.gitalk]
 
     [params.comment.valine]
-    placeholder = "hope you enjoy it~"
+    placeholder = "Hope you enjoy it!"
     avatar = "mm"
     meta = "nick,mail"
     pageSize = 10
@@ -157,7 +157,7 @@ enable = false
   min2read = true
 
   [params.config]
-  skin = "theme-black"
+  skin = "theme-white"
   layout = "main-center"
   excerpt_link = "Read More"
   toc = true

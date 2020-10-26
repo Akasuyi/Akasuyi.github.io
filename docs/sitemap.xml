@@ -3,39 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Akasuyi.github.io/hello_blogs_cn/</loc>
-    <lastmod>2020-10-25T18:55:43+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://Akasuyi.github.io/hello_blogs/</loc>
-    <lastmod>2020-10-24T18:55:43+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://Akasuyi.github.io/categories/</loc>
+    <lastmod>2020-10-26T13:53:15+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Akasuyi.github.io/series/</loc>
+    <loc>https://Akasuyi.github.io/posts/</loc>
+    <lastmod>2020-10-26T13:53:15+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://Akasuyi.github.io/tags/</loc>
+    <lastmod>2020-10-26T13:53:15+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Akasuyi.github.io/tags/test/</loc>
+    <lastmod>2020-10-26T13:53:15+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Akasuyi.github.io/categories/test/</loc>
+    <lastmod>2020-10-26T13:53:15+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Akasuyi.github.io/2020/10/test/</loc>
+    <lastmod>2020-10-26T13:53:15+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://Akasuyi.github.io/</loc>
+    <lastmod>2020-10-26T13:53:15+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Akasuyi.github.io/tags/chinese/</loc>
+    <lastmod>2020-10-25T18:55:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Akasuyi.github.io/categories/goal/</loc>
+    <lastmod>2020-10-25T18:55:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Akasuyi.github.io/tags/my-goal/</loc>
+    <lastmod>2020-10-25T18:55:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Akasuyi.github.io/2020/10/hello_blogs_cn/</loc>
+    <lastmod>2020-10-25T18:55:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Akasuyi.github.io/tags/english/</loc>
+    <lastmod>2020-10-24T18:55:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Akasuyi.github.io/2020/10/hello_blogs/</loc>
+    <lastmod>2020-10-24T18:55:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Akasuyi.github.io/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Akasuyi.github.io/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
