@@ -1,7 +1,7 @@
 ---
 title: "Hello blogs!"
 date: 2020-10-24T18:55:43+08:00
-description: "this blog's goal"
+description: "This blog's goal"
 tags: ["My Goal","English",]
 categories: ["Goal"]
 draft: false
