@@ -124,8 +124,7 @@ widgets = [ "board", "category", "tag", "recent_posts" ]
 
   [params.comment]
   type = "disqus"
-  [params.comment.disqus]
-  disqus = "https-akasuyi-github-io"
+  disqus = "akasuyi"
 
     [params.comment.gitalk]
 
