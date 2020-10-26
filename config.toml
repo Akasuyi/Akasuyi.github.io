@@ -1,4 +1,4 @@
-baseURL = "https://Akasuyi.github.io/docs/"
+baseURL = "https://Akasuyi.github.io/"
 theme = "pure"
 title = "Yuting Xie"
 defaultContentLanguage = "en"
@@ -43,7 +43,7 @@ weight = 1
 identifier = "archives"
 name = "Archives"
 title = "Archives"
-url = "content/posts/"
+url = "/content/posts/"
 weight = 2
 
 [[menu.main]]
