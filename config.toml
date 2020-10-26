@@ -1,4 +1,4 @@
-baseURL = "https://akasuyi.github.io/docs"
+baseURL = "https://akasuyi.github.io/docs/"
 theme = "pure"
 title = "Yuting Xie"
 defaultContentLanguage = "en"
