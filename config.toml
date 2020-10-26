@@ -123,7 +123,8 @@ widgets = [ "board", "category", "tag", "recent_posts" ]
   mobile_sites = "weibo,qq,qzone"
 
   [params.comment]
-  disqus = "yutingxie"
+  type = "disqus"
+  disqus = "https-akasuyi-github-io"
 
     [params.comment.gitalk]
 
