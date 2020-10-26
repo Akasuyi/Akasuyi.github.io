@@ -123,7 +123,7 @@ widgets = [ "board", "category", "tag", "recent_posts" ]
   mobile_sites = "weibo,qq,qzone"
 
   [params.comment]
-  disqus = "Yuting Xie"
+  disqus = "yutingxie"
 
     [params.comment.gitalk]
 
