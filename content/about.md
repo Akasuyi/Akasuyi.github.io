@@ -21,10 +21,10 @@ There will be some in the future, I think.
 
 ## Contact me
 
-if you have any questions or some ideas you want to share with me, please contact me through email: <xieyuting_998@qq.com>
+if you have any questions or some ideas you want to share with me, Don't be shy to leave a comment, or you can just contact me through email: <xieyuting_998@qq.com>.
 
 My GitHub: <https://github.com/Akasuyi>
 
-如果你有任何问题或者有任何想法想与我分享，请不要犹豫给我发邮件吧！<xieyuting_998@qq.com>
+如果你有任何问题或者有任何想法想与我分享，可以在文章下给我留言，给我发邮件也可以哦。<xieyuting_998@qq.com>
 
 我的GitHub主页：<https://github.com/Akasuyi>
