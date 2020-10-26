@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Yuting Xie</title>
-    <link>https://akasuyi.github.io/docs/posts/</link>
+    <link>https://akasuyi.github.io/posts/</link>
     <description>Recent content in Posts on Yuting Xie</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 25 Oct 2020 18:55:43 +0800</lastBuildDate>
     
-        <atom:link href="https://akasuyi.github.io/docs/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://akasuyi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>你好 博客！</title>
-      <link>https://akasuyi.github.io/docs/2020/10/hello_blogs_cn/</link>
+      <link>https://akasuyi.github.io/2020/10/hello_blogs_cn/</link>
       <pubDate>Sun, 25 Oct 2020 18:55:43 +0800</pubDate>
       
-      <guid>https://akasuyi.github.io/docs/2020/10/hello_blogs_cn/</guid>
+      <guid>https://akasuyi.github.io/2020/10/hello_blogs_cn/</guid>
       <description>开始写博客了 这些天我在折腾我的个人主页和GitHub的个人资料。 过去二十年，我没有记笔记，整理思路的习惯，只不过以后希望我可以这样做，所以开</description>
     </item>
     
     <item>
       <title>Hello blogs!</title>
-      <link>https://akasuyi.github.io/docs/2020/10/hello_blogs/</link>
+      <link>https://akasuyi.github.io/2020/10/hello_blogs/</link>
       <pubDate>Sat, 24 Oct 2020 18:55:43 +0800</pubDate>
       
-      <guid>https://akasuyi.github.io/docs/2020/10/hello_blogs/</guid>
+      <guid>https://akasuyi.github.io/2020/10/hello_blogs/</guid>
       <description>Hello blogs! I am currently working on my homepage and updating my github profile these days.
 I don&amp;rsquo;t really had good habits of writing things I have learned and reorganized in the past 20 years, but I want to do so in the future, not only to urge myself to think more deeply, but also to share with others. Hope these blogs can save your time and hopefully help you come up with bright ideas!</description>
     </item>
