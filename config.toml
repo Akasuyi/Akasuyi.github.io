@@ -1,5 +1,5 @@
 baseURL = "https://Akasuyi.github.io/"
-theme = "pure"
+theme = "hugo-vitae-master"
 title = "Yuting Xie"
 defaultContentLanguage = "en"
 footnoteReturnLinkContents = "↩"
